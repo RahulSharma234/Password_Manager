@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560531225016",
+    "project_id": "password-manager-370ab",
+    "storage_bucket": "password-manager-370ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560531225016:android:f1657931dfae0dfd0ef74d",
+        "android_client_info": {
+          "package_name": "com.rahul.passwordmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgyYDKgqWER6aNe5NQ0PbFyzbnSn3nGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
